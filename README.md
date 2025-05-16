@@ -22,6 +22,10 @@ Semrush is an all-in-one digital marketing tool that helps businesses improve th
 
 With its powerful tools and user-friendly interface, Semrush is a comprehensive platform for all your digital marketing needs.
 
+<a href="https://afftrend.com/semrush"> 
+<img src="https://drive.google.com/uc?export=view&id=19rCMBJhMocnqU6q6CjFcZSiMCZzy34GF" alt="Get Started"> 
+</a>
+
 ## **Key Features Overview**
 
 **1. Rank Tracking**
@@ -58,6 +62,10 @@ Optimize PPC campaigns through detailed keyword research, competitor analysis, a
 
 These powerful Semrush features collectively provide a comprehensive digital marketing toolkit. From tracking keyword rankings to optimizing content and managing social media, Semrush equips businesses and marketers with data-driven insights and tools needed to boost visibility, outperform competitors, and drive consistent online growth.
 
+<a href="https://afftrend.com/semrush"> 
+<img src="https://drive.google.com/uc?export=view&id=16GPccgw1mUkqXJFEgnBxrvcdlH8lrHot" alt="Check Detailed Features"> 
+</a>
+
 ## **Pros and Cons**
 
 ### âœ… **Pros**
@@ -82,7 +90,11 @@ These powerful Semrush features collectively provide a comprehensive digital mar
 | **Guru** | $249.95 | 15 | 1,500 | 30,000 | Pro features plus content tools, historical data, device tracking, and Looker Studio integration. |
 | **Business** | $499.95 | 40 | 5,000 | 50,000 | Guru features plus API, PLA analytics, Share of Voice, and extended project/report limits. |
 
-SEMrush offers three pricing plans: **Pro**, **Guru**, and **Business**. The **Pro plan** suits small teams, offering 5 projects, 500 keywords to track, and 10,000 results per report, with essential SEO, PPC, audit, and backlink tools. The **Guru plan** is designed for mid-size businesses, and includes 15 projects, 1,500 keywords, and 30,000 results per report, plus content tools, historical data, device tracking, and Looker Studio integration & the **Business plan** is for large agencies, supporting 40 projects, 5,000 keywords, and 50,000 results per report, with all Guru features plus API access, PLA analytics, Share of Voice, and extended limits.
+SEMrush offers three pricing plans: **Pro**, **Guru**, and **Business**. The **Pro plan** suits small teams, offering 5 projects, 500 keywords to track, and 10,000 results per report, with essential SEO, PPC, audit, and backlink tools. The **Guru plan** is designed for mid-size businesses, and includes 15 projects, 1,500 keywords, and 30,000 results per report, plus content tools, historical data, device tracking, and Looker Studio integration & the **Business plan** is for large agencies, supporting 40 projects, 5,000 keywords, and 50,000 results per report, with all Guru features plus API access, PLA analytics, Share of Voice, and extended limits.\
+
+<a href="https://afftrend.com/semrush"> 
+<img src="https://drive.google.com/uc?export=view&id=1copskY16kdQsj1TlHODpmoNLyVieWffZ" alt="Take a Closer Look"> 
+</a>
 
 ## **Who Should use Semrush?**
 
@@ -96,6 +108,10 @@ Semrush is an ideal tool for anyone involved in digital marketing and SEO. Hereâ
 - **Freelancers and Agencies**: Digital marketing freelancers and agencies can use Semrush to manage client accounts, provide comprehensive reports, and track multiple projects with ease.
 
 It is a versatile tool that caters to professionals, businesses, and anyone looking to improve their online marketing efforts.
+
+<a href="https://afftrend.com/semrush"> 
+<img src="https://drive.google.com/uc?export=view&id=1FoP9E8ObxUoX_OFhvRvBbO3lZ2orFR34" alt="Try Now"> 
+</a>
 
 ## **Alternatives to Consider**
 
@@ -163,6 +179,10 @@ Semrush is one of the most powerful digital marketing tools used by businesses, 
     You can download reports or schedule them for clients in just a few clicks.
 
 Whether you're a beginner or a pro, it helps you make smarter marketing decisions and stay ahead of your competition with confidence.
+
+<a href="https://afftrend.com/semrush"> 
+<img src="https://drive.google.com/uc?export=view&id=1l5pL-NmRd4ipfP11-OQX4lmD0iqkEa_z" alt="Learn More"> 
+</a>
 
 ## User reviews
 
