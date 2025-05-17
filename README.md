@@ -138,6 +138,10 @@ These alternatives offer various strengths, so you can choose one that best suit
 
 ## Customer Support
 
+<a href="https://afftrend.com/semrush">
+  <img src="https://drive.google.com/uc?export=view&id=1x-Y00NbQ6O7KUzsbCJoAgu_jQ7BLo06h"  alt="SEMrush Customer Support">
+</a>
+
 | **Aspect** | **Details** |
 | --- | --- |
 | **Support Channels** | - Live Chat (24/7)  - Email Support  - Knowledge Base  - Ticket System  - Phone Support (Limited Regions) |
