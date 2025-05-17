@@ -88,6 +88,10 @@ These powerful Semrush features collectively provide a comprehensive digital mar
 
 ## **Pricing of Semrush**
 
+<a href="https://afftrend.com/semrush">
+  <img src="https://drive.google.com/uc?export=view&id=1LiNRIdDcjZOP0omicHZyGjoUQcgWM1mL"  alt="SEMrush Pricing">
+</a>
+
 | Plan | Price (Monthly) | Projects | Keywords to Track | Results per Report | Key Features |
 | --- | --- | --- | --- | --- | --- |
 | **Pro** | $139.95 | 5 | 500 | 10,000 | Basic SEO, PPC, audit, keyword and backlink tools for small teams or beginners. |
