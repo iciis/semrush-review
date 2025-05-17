@@ -38,9 +38,17 @@ Track keyword performance daily across multiple locations and devices. It helps 
 
 **2. Social Media Management**
 
+<a href="https://afftrend.com/semrush">
+  <img src="https://drive.google.com/uc?export=view&id=1iqi5SSK5-8hq7SXlETgLlTr2eyYJykwL"  alt="SEMrush Social Media Management">
+</a>
+
 Manage and schedule posts, track engagement, and measure performance across platforms. Semrush’s tools enable content planning, publishing, and analytics, making it easier to build a strong social media presence and enhance brand awareness through informed content strategies.
 
 **3. Link Building**
+
+<a href="https://afftrend.com/semrush">
+  <img src="https://drive.google.com/uc?export=view&id=1m2cgxgSDb1HV2dPmh488y66eM2TPsbJd"  alt="SEMrush Link Building">
+</a>
 
 Identify backlink opportunities and manage outreach campaigns efficiently. This tool uncovers gaps in your backlink profile, helps build authoritative links, and improves SEO rankings by enhancing domain authority and off-page optimization.
 
@@ -54,11 +62,17 @@ Plan, create, and distribute high-performing content based on SEO data. These to
 
 **6. Content Optimization**
 
-
+<a href="https://afftrend.com/semrush">
+  <img src="https://drive.google.com/uc?export=view&id=1MPAbKdZukn230RPmYXrOi0wi2gxy2Nxg"  alt="Semrush Content Optimization">
+</a>
 
 Use AI-driven suggestions to enhance your content’s SEO performance. This tool analyzes readability, keyword usage, and structure to ensure each piece is tailored for maximum organic traffic and better SERP positions.
 
 **7. Market Analysis**
+
+<a href="https://afftrend.com/semrush">
+  <img src="https://drive.google.com/uc?export=view&id=1s1grUDyEWUNepSEjNb06ho7eTtn7oufF"  alt="SEMrush Market Analysis">
+</a>
 
 Gain insights into your industry's trends, competitors, and market demands. Understand customer behavior, monitor market shifts, and refine strategies using comprehensive market intelligence to stay competitive and responsive.
 
