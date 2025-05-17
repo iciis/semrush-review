@@ -54,6 +54,10 @@ Identify backlink opportunities and manage outreach campaigns efficiently. This 
 
 **4. Competitor SEO Analysis**
 
+<a href="https://afftrend.com/semrush">
+  <img src="https://drive.google.com/uc?export=view&id=1Pw4dfp6RCbTxhhs2GjO_R-J9qtT5f9_g"  alt="SEMrush Competitor Analysis">
+</a>
+
 Analyze competitor websites to discover their keywords, backlinks, and top-performing content. This feature helps identify SEO gaps, monitor market trends, and replicate winning strategies to outperform competitors in search engine visibility.
 
 **5. Content Creation and Distribution**
