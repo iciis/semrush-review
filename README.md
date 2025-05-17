@@ -30,7 +30,7 @@ With its powerful tools and user-friendly interface, Semrush is a comprehensive 
 <img src="https://drive.google.com/uc?export=view&id=19rCMBJhMocnqU6q6CjFcZSiMCZzy34GF" alt="Get Started"> 
 </a>
 
-## **Key Features Overview**
+## **Features of SEMrush**
 
 **1. Rank Tracking**
 
