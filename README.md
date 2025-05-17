@@ -10,6 +10,10 @@ Let’s break down the features, pricing, and overall performance of **Semrush**
 
 ## **What is Semrush?**
 
+<a href="https://afftrend.com/semrush">
+  <img src="https://drive.google.com/uc?export=view&id=1RHo9f5IpqZc_zQmIgl77edjuMxCU23hN"  alt="Semrush Homepage">
+</a>
+
 Semrush is an all-in-one digital marketing tool that helps businesses improve their online presence through **SEO** (Search Engine Optimization), **PPC** (Pay-Per-Click), and other marketing strategies. It's widely used by digital marketers, content creators, and business owners to boost website performance and drive more traffic. Here's a breakdown of what Semrush offers:
 
 - **Keyword Research**: Semrush helps you find the best keywords to target, giving you insights into search volume, competition, and trends.
